@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @syedsajjadaskari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# I there, I am Syed Sajjad Askari 👋 
 
-<!---
-syedsajjadaskari/syedsajjadaskari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align = "left" width="42%" src = "https://github-readme-stats.vercel.app/api?username=syedsajjadaskari&show_icons=true&theme=radical"/>
+
+<img align= "left" width="42%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syedsajjadaskari&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+
